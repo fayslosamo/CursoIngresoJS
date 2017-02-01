@@ -2,6 +2,11 @@
 y luego mostrarlo por 'alert' al presionar el botón  'MOSTRAR'*/
 function Mostar()
 {
-	
+	var msj = "holaaaa"
+	prompt(msj)
+
+	var prompt(msj) 
+	alert(prompt)
+
 }
 
