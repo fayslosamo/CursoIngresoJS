@@ -9,6 +9,6 @@ alert(a)
 
 
 
-}
+} //sirve para mostrar un dato ingresado ID sea nombre edad etc y mostrarlo con alert
 
 

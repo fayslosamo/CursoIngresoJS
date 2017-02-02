@@ -5,9 +5,9 @@ function Mostar()
 	var a = document.getElementById ('elNombre').value;
 	var b = document.getElementById ("laEdad").value;
 
-	alert("/Usted se llama" + a);
-    alert("/tiene" + b);
+	alert("Usted se llama" + a);
+    alert("tiene" + b);
 }
 
-
+//con el getelementbyId obtener los datos edad y nombre y mostrrlos con alert
 
