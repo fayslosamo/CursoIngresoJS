@@ -4,6 +4,8 @@
 */
 function Mostar()
 {
-	
+	var a = prompt ("sus datos:")
+	console.log("sus datos son:")
+
 }
 
