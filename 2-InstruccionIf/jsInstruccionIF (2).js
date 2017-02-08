@@ -5,10 +5,7 @@ var x = document.getElementById("edad").value;
 
 if (x >= 18) 
 {
-	console.log("Mayor de edad");
-}
-if (x >= 18) 
-{
-	alert("Mayor de Edad");
+	var x = ("Usted es mayor de edad");
+	alert(x);
 }
 }

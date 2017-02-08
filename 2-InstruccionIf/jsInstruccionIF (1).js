@@ -1,13 +1,16 @@
 function Mostrar()
 {
-var x = document.getElementById('edad');
+var x = document.getElementById("edad").value;
 
-if (x = 15) 
+if ( x==15)
 {
-	console.log("Niña Bonita");
+	var x = ("niña bonita");
+	alert(x);
 }
-if (x = 15) 
+else
 {
-	alert("Niña Bonita");
+	var x = ("niña fea");
+	alert("niña fea");
 }
+
 }
