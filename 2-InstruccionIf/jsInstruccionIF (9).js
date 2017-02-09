@@ -1,6 +1,10 @@
+var miIntervalo ;
+var contador=0;
+
 function Mostrar()
 {
-	//Genero el número RANDOM entre 1 y 10 
+	alert("function Mostrar");
+	miIntervalo = setInterval(SegundosEnElAire, 1);
 	
 
 }//FIN DE LA FUNCIÓN
