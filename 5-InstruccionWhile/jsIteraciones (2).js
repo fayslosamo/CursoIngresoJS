@@ -1,7 +1,7 @@
 function Mostrar()
 {
-	var contador = 10;
-	while(contador>=0)
+	var contador = 100;
+	while(contador>=10)
 		{
 			alert(contador);
 			contador=contador-1;
